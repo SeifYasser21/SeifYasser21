@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SeifYasser21
-- 🐍 I’m interested in Python Programming, Backend Development, and Cybersecurity
-- 📚 I’m currently learning Java, MongoDB, and Django.
-- 🧑‍💻 I’m a Computer Science fresh grad building an online portfolio.
+- 🐍 Interested in Python Programming, Backed Engineering and Cloud Solutions
+- 📚 Currently learning AWS Cloud Architecture, DevOps, and Django.
+- 🧑‍💻 Computer Science grad building an online portfolio.
 - 📧 Email: seifeldeen.yasser.01@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/seifeldeen-yasser-mohamed-abdelkader-amr-410779238/
 
